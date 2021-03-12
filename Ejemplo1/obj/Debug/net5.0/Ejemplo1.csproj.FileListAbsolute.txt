@@ -1,0 +1,16 @@
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\Ejemplo1.exe
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\Ejemplo1.deps.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\Ejemplo1.runtimeconfig.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\Ejemplo1.runtimeconfig.dev.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\Ejemplo1.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\ref\Ejemplo1.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\bin\Debug\net5.0\Ejemplo1.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.AssemblyInfo.cs
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\ref\Ejemplo1.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Ejemplo1\obj\Debug\net5.0\Ejemplo1.genruntimeconfig.cache

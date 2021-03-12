@@ -1,0 +1,16 @@
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\FuncionesHotel.exe
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\FuncionesHotel.deps.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\FuncionesHotel.runtimeconfig.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\FuncionesHotel.runtimeconfig.dev.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\FuncionesHotel.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\ref\FuncionesHotel.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\bin\Debug\net5.0\FuncionesHotel.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.csprojAssemblyReference.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.AssemblyInfoInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.AssemblyInfo.cs
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.csproj.CoreCompileInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\ref\FuncionesHotel.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoFunciones\FuncionesHotel\obj\Debug\net5.0\FuncionesHotel.genruntimeconfig.cache

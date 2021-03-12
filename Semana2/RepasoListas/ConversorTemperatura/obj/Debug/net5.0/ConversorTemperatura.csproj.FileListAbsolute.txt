@@ -1,0 +1,16 @@
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.exe
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.deps.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.runtimeconfig.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.runtimeconfig.dev.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ref\ConversorTemperatura.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.csprojAssemblyReference.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.AssemblyInfo.cs
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ref\ConversorTemperatura.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO - Codes\Semana2\RepasoListas\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.genruntimeconfig.cache
