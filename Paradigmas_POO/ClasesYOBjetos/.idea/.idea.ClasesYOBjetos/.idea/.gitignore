@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.ClasesYOBjetos.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\.idea\.idea.ClasesYOBjetos\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,6 @@
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\ClasesYOBjetos\obj\Debug\ClasesYOBjetos.csprojAssemblyReference.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\ClasesYOBjetos\obj\Debug\ClasesYOBjetos.csproj.CoreCompileInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\ClasesYOBjetos\bin\Debug\ClasesYOBjetos.exe
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\ClasesYOBjetos\bin\Debug\ClasesYOBjetos.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\ClasesYOBjetos\obj\Debug\ClasesYOBjetos.exe
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Paradigmas_POO\ClasesYOBjetos\ClasesYOBjetos\obj\Debug\ClasesYOBjetos.pdb
