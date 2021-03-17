@@ -1,0 +1,16 @@
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.csprojAssemblyReference.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.AssemblyInfoInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.AssemblyInfo.cs
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\Laboratorio2.exe
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\Laboratorio2.deps.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\Laboratorio2.runtimeconfig.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\Laboratorio2.runtimeconfig.dev.json
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\Laboratorio2.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\ref\Laboratorio2.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\bin\Debug\net5.0\Laboratorio2.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\ref\Laboratorio2.dll
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.pdb
+C:\Users\fergo\Desktop\UCA\Ciclo III\Programacion Orientada a Objetos\POO-01-2021\Laboratorio2\obj\Debug\net5.0\Laboratorio2.genruntimeconfig.cache
